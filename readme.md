@@ -1,1 +1,3 @@
-# This is a demo for a GCP devops project# gcp-devops-project
+# Docker flask application
+- This application is written in python
+- It shall be deployed on GKE
